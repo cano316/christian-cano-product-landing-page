@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+ #greenDiv {
+     background-color: #03cf92;
+ }
+ 
+ footer {
+     height: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
